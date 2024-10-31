@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Kalkulator",
+            "request": "launch",
+            "mainClass": "Kalkulator",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "MainApp",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "MaxFinder",
+            "request": "launch",
+            "mainClass": "MaxFinder",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "Kalkulator",
+            "request": "launch",
+            "mainClass": "Modul3.Kalkulator",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "repo",
+            "request": "launch",
+            "mainClass": "Modul3.repo",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "NinjaFruit",
+            "request": "launch",
+            "mainClass": "NinjaFruit",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "PasswordValidator",
+            "request": "launch",
+            "mainClass": "PasswordValidator",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "PemesananTiketWisata",
+            "request": "launch",
+            "mainClass": "PemesananTiketWisata",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "codelab1",
+            "request": "launch",
+            "mainClass": "codelab1",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "codelab2",
+            "request": "launch",
+            "mainClass": "codelab2",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
+            "name": "codelab3",
+            "request": "launch",
+            "mainClass": "codelab3",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        }
+    ]
+}
