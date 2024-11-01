@@ -18,4 +18,4 @@ Java Development Kit (JDK) 8 atau lebih baru.
 Cara Menjalankan Program
 Pastikan Java sudah terpasang pada sistem Anda.
 Simpan kode program di atas dalam file bernama Kalkulator.java.
-Buka terminal atau command prompt dan arahkan ke direktori tempat file Kalkulator.java disimpan.**
+Buka terminal atau command prompt dan arahkan ke direktori tempat file Kalkulator.java disimpan.
