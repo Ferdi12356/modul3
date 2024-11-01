@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "repo",
+            "request": "launch",
+            "mainClass": "repo",
+            "projectName": "292_Codelab1,2,3_bd49b524"
+        },
+        {
+            "type": "java",
             "name": "Kalkulator",
             "request": "launch",
             "mainClass": "Kalkulator",
